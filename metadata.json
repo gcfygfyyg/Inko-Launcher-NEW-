@@ -1,0 +1,6 @@
+{
+  "name": "INKO Launcher",
+  "description": "Browser-styled Android home screen launcher with instant app search, omnibar web navigation, minimalist widgets, and integrated browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
